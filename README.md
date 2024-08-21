@@ -4,7 +4,7 @@
 1. Integrating Google Map with Null Safety.
 2. Add Multiple Markers on Google Map
 3. Animate Camera to move to any position on Google Map
-4. Coordinates(lat/long) to addresses in - Flutter Geo-Coder Null Safety
+4. Coordinates(lat/long) to addresses in - Flutter Geocoder Null Safety
 5. Get User Currenet Location and show Marker with address
 6. Flutter Google Map Auto Complete Places API
 7. Add Multiple Custom Markers on Google Map
