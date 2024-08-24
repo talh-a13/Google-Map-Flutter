@@ -65,7 +65,7 @@ class _googlepplaceapiState extends State<googlepplaceapi> {
               TextFormField(
                 controller: _controller,
                 decoration:
-                    InputDecoration(hintText: "Search Places with name"),
+                    InputDecoration(hintText: "Search Places here with name"),
               ),
               // Using Expanded Widget to Show Search Place Api implementation on Screen
               Expanded(
